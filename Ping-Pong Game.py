@@ -5,6 +5,7 @@ window.title("Ping Pong")
 window.bgcolor("black")
 window.setup(width=800,height=600)
 window.tracer(0)
+
 #Score
 score_a=0
 score_b=0
