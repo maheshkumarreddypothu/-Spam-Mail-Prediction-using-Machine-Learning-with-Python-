@@ -35,6 +35,7 @@ ball.shape("square")
 ball.color("white")
 ball.penup()
 # ball.goto(0,0)
+#The main purpose of dy and dx is to give a sense of motion to the ball
 ball.dx=0.07
 # ball.dy=0.07
 ball.dy=-0.07
